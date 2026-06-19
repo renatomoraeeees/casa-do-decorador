@@ -1,0 +1,17 @@
+INSTRUÇÕES — Salve as fotos com estes nomes exatos nesta pasta:
+
+betania.jpg        → Foto da Betânia sorrindo (selfie dela na loja)
+kit-natural.jpg    → Decoração com rattan, flores brancas e vasos verdes
+kit-roxo.jpg       → Decoração roxa com arco dourado e laço roxo
+kit-rosa.jpg       → Decoração rosa com carrinho de doces dourado e gaiolas
+kit-azul.jpg       → Decoração azul com painel "Happy Birthday" neon
+baloes-azul.jpg    → Arco de balões azul (festa dos 49 anos)
+salao-rosa.jpg     → Salão com mesinhas redondas e toalhas rosas
+salao-mesa.jpg     → Salão com mesas longas postas com flores
+salao-preto.jpg    → Salão com balões pretos e dourados
+salao-lol.jpg      → Salão com decoração LOL rosa (foto com a placa da aniversariante)
+
+Como baixar do Instagram:
+- Abra cada post no celular → segure a foto → "Salvar"
+- Transfira para o PC e renomeie conforme acima
+- Cole nesta pasta (imagens/)
