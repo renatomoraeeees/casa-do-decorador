@@ -160,10 +160,13 @@ img.img-placeholder::after {
 
 /* LOGO NAV */
 .logo-nav-img {
-  height: 52px;
+  height: 56px;
   width: auto;
   object-fit: contain;
-  filter: drop-shadow(0 2px 6px rgba(0,0,0,.18));
+  background: rgba(255,255,255,0.92);
+  border-radius: 10px;
+  padding: 4px 10px;
+  box-shadow: 0 2px 10px rgba(0,0,0,.15);
   transition: var(--tr);
 }
 .logo-nav-img:hover { transform: scale(1.04); }

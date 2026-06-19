@@ -1,67 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 455">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 490" overflow="visible">
 
-  <!-- Chimney (atrás do telhado) -->
-  <rect x="268" y="118" width="34" height="90" rx="3" fill="#B08878"/>
+  <!-- Chimney -->
+  <rect x="268" y="133" width="34" height="90" rx="3" fill="#B08878"/>
 
-  <!-- Telhado -->
-  <polygon points="210,162 405,252 15,252" fill="#B08878"/>
+  <!-- Roof -->
+  <polygon points="210,177 405,267 15,267" fill="#B08878"/>
 
-  <!-- Escamas rosa (awning) — clipped abaixo da linha do beiral -->
+  <!-- Scalloped awning -->
   <clipPath id="aw">
-    <rect x="12" y="248" width="396" height="56"/>
+    <rect x="12" y="263" width="396" height="56"/>
   </clipPath>
   <g clip-path="url(#aw)">
-    <circle cx="34"  cy="248" r="29" fill="#F2B5C5"/>
-    <circle cx="86"  cy="248" r="29" fill="#F2B5C5"/>
-    <circle cx="138" cy="248" r="29" fill="#F2B5C5"/>
-    <circle cx="190" cy="248" r="29" fill="#F2B5C5"/>
-    <circle cx="242" cy="248" r="29" fill="#F2B5C5"/>
-    <circle cx="294" cy="248" r="29" fill="#F2B5C5"/>
-    <circle cx="346" cy="248" r="29" fill="#F2B5C5"/>
-    <circle cx="398" cy="248" r="29" fill="#F2B5C5"/>
+    <circle cx="34"  cy="263" r="29" fill="#F2B5C5"/>
+    <circle cx="86"  cy="263" r="29" fill="#F2B5C5"/>
+    <circle cx="138" cy="263" r="29" fill="#F2B5C5"/>
+    <circle cx="190" cy="263" r="29" fill="#F2B5C5"/>
+    <circle cx="242" cy="263" r="29" fill="#F2B5C5"/>
+    <circle cx="294" cy="263" r="29" fill="#F2B5C5"/>
+    <circle cx="346" cy="263" r="29" fill="#F2B5C5"/>
+    <circle cx="398" cy="263" r="29" fill="#F2B5C5"/>
   </g>
 
-  <!-- Cordas dos balões -->
-  <path d="M285,116 C279,96 270,72 262,50" fill="none" stroke="#DDAAC0" stroke-width="2.2" stroke-linecap="round"/>
-  <path d="M285,116 C284,94 283,70 283,48"  fill="none" stroke="#DDAAC0" stroke-width="2.2" stroke-linecap="round"/>
-  <path d="M285,116 C291,96 300,72 308,51"  fill="none" stroke="#DDAAC0" stroke-width="2.2" stroke-linecap="round"/>
+  <!-- Balloon strings -->
+  <path d="M285,131 C279,111 270,87 262,65"  fill="none" stroke="#DDAAC0" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M285,131 C284,109 283,85 283,63"  fill="none" stroke="#DDAAC0" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M285,131 C291,111 300,87 308,66"  fill="none" stroke="#DDAAC0" stroke-width="2.2" stroke-linecap="round"/>
 
-  <!-- Nós dos balões -->
-  <ellipse cx="262" cy="52" rx="4" ry="5" fill="#F2C0D2"/>
-  <ellipse cx="283" cy="50" rx="4" ry="5" fill="#EAA8C0"/>
-  <ellipse cx="308" cy="53" rx="4" ry="5" fill="#D050A0"/>
+  <!-- Balloon knots -->
+  <ellipse cx="262" cy="67" rx="4" ry="5" fill="#F2C0D2"/>
+  <ellipse cx="283" cy="65" rx="4" ry="5" fill="#EAA8C0"/>
+  <ellipse cx="308" cy="68" rx="4" ry="5" fill="#D050A0"/>
 
-  <!-- Balão 1 — blush claro (atrás, esquerda) -->
-  <ellipse cx="262" cy="30"  rx="26" ry="30" fill="#F5C8D8"/>
-  <ellipse cx="256" cy="20"  rx="8"  ry="10" fill="rgba(255,255,255,0.55)"/>
+  <!-- Balloon 1 – blush (back left) -->
+  <ellipse cx="262" cy="45" rx="26" ry="30" fill="#F5C8D8"/>
+  <ellipse cx="256" cy="35" rx="8"  ry="10" fill="rgba(255,255,255,0.55)"/>
 
-  <!-- Balão 2 — rosa médio (meio) -->
-  <ellipse cx="283" cy="24"  rx="27" ry="31" fill="#EEA8C0"/>
-  <ellipse cx="277" cy="14"  rx="8"  ry="10" fill="rgba(255,255,255,0.50)"/>
+  <!-- Balloon 2 – medium pink (middle) -->
+  <ellipse cx="283" cy="39" rx="27" ry="31" fill="#EEA8C0"/>
+  <ellipse cx="277" cy="29" rx="8"  ry="10" fill="rgba(255,255,255,0.50)"/>
 
-  <!-- Balão 3 — pink forte (frente, direita, maior) -->
-  <ellipse cx="309" cy="28"  rx="31" ry="35" fill="#D855A0"/>
-  <ellipse cx="303" cy="17"  rx="9"  ry="11" fill="rgba(255,255,255,0.45)"/>
+  <!-- Balloon 3 – hot pink (front right, largest) -->
+  <ellipse cx="309" cy="43" rx="31" ry="35" fill="#D855A0"/>
+  <ellipse cx="303" cy="32" rx="9"  ry="11" fill="rgba(255,255,255,0.45)"/>
 
-  <!-- Texto "Casa do" -->
+  <!-- "Casa do" -->
   <text
-    x="210" y="328"
+    x="210" y="345"
     text-anchor="middle"
     font-family="'Dancing Script','Segoe Script',cursive"
     font-size="72"
     font-weight="700"
     fill="#E060A0">Casa do</text>
 
-  <!-- Texto "Decorador" -->
+  <!-- "Decorador" -->
   <text
-    x="210" y="415"
+    x="210" y="428"
     text-anchor="middle"
     font-family="'Dancing Script','Segoe Script',cursive"
     font-size="84"
     font-weight="700"
     fill="#E060A0">Decorador</text>
 
-  <!-- Barra inferior -->
-  <rect x="15" y="430" width="390" height="16" rx="5" fill="#B08878"/>
+  <!-- Bottom bar -->
+  <rect x="15" y="448" width="390" height="16" rx="5" fill="#B08878"/>
 
 </svg>
