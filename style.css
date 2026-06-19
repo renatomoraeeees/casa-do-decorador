@@ -6,11 +6,11 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
-  --pink:        #E91E8C;
-  --pink-dark:   #C4157A;
-  --pink-light:  #FF69B4;
+  --pink:        #D855A0;
+  --pink-dark:   #B83A84;
+  --pink-light:  #EEA8C0;
   --pink-pale:   #FFF0F7;
-  --pink-pale2:  #FFE4F0;
+  --pink-pale2:  #FFE4F2;
   --gold:        #D4AF37;
   --gold-light:  #F0D060;
   --white:       #FFFFFF;
